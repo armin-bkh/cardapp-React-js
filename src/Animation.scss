@@ -1,0 +1,48 @@
+.slideone{
+    opacity: 1;
+    animation: slideAnimation1 .8s ease-in;
+}
+@keyframes slideAnimation1{
+    0%{
+        opacity: .04;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.slidetwo{
+    opacity: 1;
+    animation: slideAnimation2 .8s ease-in;
+}
+@keyframes slideAnimation2{
+    0%{
+        opacity: .04;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.slidethree{
+    opacity: 1;
+    animation: slideAnimation3 .8s ease-in;
+}
+@keyframes slideAnimation3{
+    0%{
+        opacity: .04;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.slidefour{
+    opacity: 1;
+    animation: slideAnimation4 .8s ease-in;
+}
+@keyframes slideAnimation4{
+    0%{
+        opacity: .04;
+    }
+    100%{
+        opacity: 1;
+    }
+}
