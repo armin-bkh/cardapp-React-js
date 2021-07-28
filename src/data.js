@@ -9,7 +9,7 @@ const Data = [
     {
         id: uuid(),
         index: 1,
-        src: 'images/img1.jpg',
+        src: img1,
         detail: "Have a two bedroom",
         location: "location",
         garage: 2,
@@ -19,7 +19,7 @@ const Data = [
     {
         id: uuid(),
         index: 2,
-        src: 'images/img2.jpg',
+        src: img2,
         detail: "Have not bedroom",
         location: "location",
         garage: 1,
@@ -30,7 +30,7 @@ const Data = [
         id: uuid(),
         index: 3,
         src: 'images/img3.jpg',
-        detail: "Have a three bedroom",
+        detail: img3,
         location: "location",
         garage: 1,
         market: 3,
@@ -39,7 +39,7 @@ const Data = [
     {
         id: uuid(),
         index: 4,
-        src: 'images/img4.jpg',
+        src: img4,
         detail: "Have four bedroom",
         location: "location",
         garage: 0,
