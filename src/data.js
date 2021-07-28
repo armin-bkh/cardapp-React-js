@@ -29,8 +29,8 @@ const Data = [
     {
         id: uuid(),
         index: 3,
-        src: 'images/img3.jpg',
-        detail: img3,
+        src: img3,
+        detail: "Have a three bedroom",
         location: "location",
         garage: 1,
         market: 3,
